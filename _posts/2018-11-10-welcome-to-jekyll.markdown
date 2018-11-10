@@ -1,6 +1,6 @@
 ---
 layout: jun
-title:  "Welcome to Jekyll!"
+title:  "HEY JUN"
 date:   2018-11-10 15:00:48 +0800
 categories: jekyll update
 ---
