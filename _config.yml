@@ -3,16 +3,16 @@
 # This theme is pure jekyll theme so you don't need to use bundle
 # Instead, just run 'jekyll serve', then visit 127.0.0.1:4000 to check your site offline.
 
-name: 'Y' # put the site's name here
-permalink: /:title # the way you wanna your links look like ==> https://jekyllrb.com/docs/permalinks/
-
-description: "Your site's description" # put your site's description here
-author: "Stephen Tseng" # put your name here
-atom-baseurl: "https://your-site-url" # the url for rss feed, you can change it to your site's url
-baseurl: "" # if you aren't publish your blog under permalink like: /blog/, you don't need change this, or change it to /your-repo's-name
-social: "https://twitter.com/your-username" # put your social links here
-GA: "" # If you have a Google analytics account available, put your site's id here
-# kitID: "" # If you have an adobe fonts kit, put it here.
+title: JUN
+email: 15817204807@163.com
+description: >- # this means to ignore newlines until "baseurl:"
+  周围是那么宁静，天空是那么蔚蓝。
+  只有突突的心跳，淡淡的脸红在支配宇宙。
+  ---《温柔的防浪石堤》
+baseurl: "jun_blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: gelia.james
+github_username:  geliaddd
 
 # the navigation bar, you can create your own one
 navigations: 
