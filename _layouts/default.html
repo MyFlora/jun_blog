@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!-- Theme by Y -->
+<!-- MIT LICENSE | https://opensource.org/licenses/MIT -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+	<!-- 页面头部信息 -->
+	<head>
+		{% include head.html %}
+		<!-- {% include onscroll.html %} -->
+	</head>
+	<!-- 页面主体内容 -->
+	<body>
+		<div id="main" role="main">
+			<!-- 顶栏内容 -->
+			{% include header.html %}
+			<!-- 文章内容 -->
+	        <div id="content">
+	        {{ content }}
+	        </div>
+			<!-- 底部内容 -->
+			{% include footer.html %}
+		</div>
+		{% include js.html %}
+	</body>
+</html>
