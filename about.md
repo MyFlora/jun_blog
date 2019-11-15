@@ -1,7 +1,7 @@
 ---
 layout: page
 title: For my sweetie
-permalink: /sweetie/
+permalink: /mercy/
 ---
 
 让我感情用事，理智无补于事。
