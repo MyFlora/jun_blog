@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mercy
-permalink: /mercy/
+title: For my sweetie
+permalink: /sweetie/
 ---
 
-写作是个人的事，从来不是讨好和迎合。
+让我感情用事，理智无补于事。
 
 
 [jekyll-organization]: https://github.com/jekyll
