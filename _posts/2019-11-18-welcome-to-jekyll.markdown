@@ -18,4 +18,4 @@ categories: jekyll update
 <p>很多的一起</p>
 <p>You know what together means</p>
 <p>it means to get her</p>
-<p>去找她</p>
+<p>去找寻她</p>
