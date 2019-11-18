@@ -1,21 +1,18 @@
 ---
 layout: post
-title:  "Together"
-date:   2019-11-16 09:40:48 +0800
+title:  "Don't leave me alone"
+date:   2019-11-18 14:16:00 +0800
 categories: jekyll update
 ---
 
-<p>这算是我们待在一起时间最长的一次</p>
-<p>一起去交换闲置</p>
-<p>一起去日料店吃午餐</p>
-<p>一起去猫与咖啡馆度过午后</p>
-<p>一起去吃了一次很腻的粤菜晚餐</p>
-<p>我想我已经开始讨厌粤菜了</p>
-<p>一开始我觉得我想要记录很多</p>
-<p>我有很多想要写</p>
-<p>可此时此刻我却不这么想了</p>
-<p>我更想对你说，我们还有很多的一起</p>
-<p>很多的一起</p>
-<p>You know what together means</p>
-<p>it means to get her</p>
-<p>去找寻她</p>
+<p>我知道我爱你</p>
+<p>爱上你我的眼里容不下其他人</p>
+<p>我的心里装不下其他人</p>
+<p>不经意看到滴滴快车里的目的地</p>
+<p>默认提示我填入凯丽花园</p>
+<p>我的心里涌上了一阵悲伤</p>
+<p>Don't leave me alone</p>
+<p>I am so scared</p>
+<p>I cann't control myself</p>
+<p>I am so scared</p>
+<p>Don't leave me alone</p>
